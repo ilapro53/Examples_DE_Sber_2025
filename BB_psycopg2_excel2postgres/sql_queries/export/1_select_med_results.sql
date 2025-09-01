@@ -1,0 +1,1 @@
+SELECT * FROM detn.ilka_med_results

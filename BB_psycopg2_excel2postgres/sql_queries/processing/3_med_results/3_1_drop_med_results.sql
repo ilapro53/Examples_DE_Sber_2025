@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS detn.ilka_med_results
